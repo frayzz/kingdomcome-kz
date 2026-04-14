@@ -2908,7 +2908,7 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_copyright_menu</Cell><Cell>Kingdom Come: Deliverance © 2018 Warhorse Studios, version:</Cell><Cell>Kingdom Come: Deliverance © 2018 Warhorse Studios, версия:</Cell></Row>
 <Row><Cell>ui_costs_save_potion</Cell><Cell>This will cost you one Saviour Schnapps!</Cell><Cell>Это обойдется вам в один спасительный шнапс!</Cell></Row>
 <Row><Cell>ui_countryside</Cell><Cell>Countryside</Cell><Cell>Сельская местность</Cell></Row>
-<Row><Cell>ui_Credits</Cell><Cell>Credits</Cell><Cell>Авторы</Cell></Row>
+<Row><Cell>ui_Credits</Cell><Cell>Credits</Cell><Cell>Авторлар</Cell></Row>
 <Row><Cell>ui_current</Cell><Cell>Current</Cell><Cell>Текущий</Cell></Row>
 <Row><Cell>ui_current_objective</Cell><Cell>Current objective</Cell><Cell>Текущая задача</Cell></Row>
 <Row><Cell>ui_current_xp</Cell><Cell>Current XP</Cell><Cell>Текущий уровень</Cell></Row>
@@ -2990,8 +2990,8 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_dlc_name_tournament</Cell><Cell>Tournament!</Cell><Cell>Турнир!</Cell></Row>
 <Row><Cell>ui_dlc_not_instaled</Cell><Cell>Not purchased or installed</Cell><Cell>Не приобретено или не установлено</Cell></Row>
 <Row><Cell>ui_dlc_not_instaled_tt</Cell><Cell>Visit store page to purchase and download</Cell><Cell>Теперь это дополнение можно купить и скачать.</Cell></Row>
-<Row><Cell>ui_DLCs</Cell><Cell>DLCs</Cell><Cell>Дополнения</Cell></Row>
-<Row><Cell>ui_DLCs_header</Cell><Cell>DLCs</Cell><Cell>Дополнения</Cell></Row>
+<Row><Cell>ui_DLCs</Cell><Cell>DLCs</Cell><Cell>Қосымша мазмұн</Cell></Row>
+<Row><Cell>ui_DLCs_header</Cell><Cell>DLCs</Cell><Cell>Қосымша мазмұн</Cell></Row>
 <Row><Cell>ui_dlg_BathTime</Cell><Cell>The bathmaids will make a new man of you!</Cell><Cell>Мыльщицы сделают из тебя нового человека!</Cell></Row>
 <Row><Cell>ui_dlg_cannot_overread</Cell><Cell>You can't read any longer just now!</Cell><Cell>Сейчас ты не можешь больше читать!</Cell></Row>
 <Row><Cell>ui_dlg_cannot_oversleep</Cell><Cell>You can't sleep any longer now!</Cell><Cell>Сейчас ты не можешь больше спать!</Cell></Row>
@@ -3053,7 +3053,7 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_escape</Cell><Cell>Escape</Cell><Cell>Побег</Cell></Row>
 <Row><Cell>ui_estonian</Cell><Cell>Eesti keel</Cell><Cell>Eesti keel</Cell></Row>
 <Row><Cell>ui_evade</Cell><Cell>Evade</Cell><Cell>Уклонение</Cell></Row>
-<Row><Cell>ui_Exit</Cell><Cell>Quit</Cell><Cell>Выйти</Cell></Row>
+<Row><Cell>ui_Exit</Cell><Cell>Quit</Cell><Cell>Шығу</Cell></Row>
 <Row><Cell>ui_ExitGame</Cell><Cell>Do you want to quit the game?</Cell><Cell>Вы точно хотите выйти из игры?</Cell></Row>
 <Row><Cell>ui_exitsave_load_tt</Cell><Cell>This savegame can be launched only once, then it will be deleted.</Cell><Cell>Сохранение игры можно загрузить только один раз, после чего оно будет удалено.</Cell></Row>
 <Row><Cell>ui_exitsave_overwrite_tt</Cell><Cell>This will overwrite your last Exit save.</Cell><Cell>Это перезапишет ваше последнее сохранение при выходе.</Cell></Row>
@@ -3061,8 +3061,8 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_ExitToMainQ</Cell><Cell>Do you want to exit to main menu?</Cell><Cell>Вы точно хотите выйти в главное меню?</Cell></Row>
 <Row><Cell>ui_ExitToMainTT</Cell><Cell>Exits the game to main menu.</Cell><Cell>Выйти в главное меню</Cell></Row>
 <Row><Cell>ui_failed_quests</Cell><Cell>Failed Quests</Cell><Cell>Проваленные задания</Cell></Row>
-<Row><Cell>ui_FAQ</Cell><Cell>Help</Cell><Cell>Помощь</Cell></Row>
-<Row><Cell>ui_FAQTitle</Cell><Cell>Help</Cell><Cell>Помощь</Cell></Row>
+<Row><Cell>ui_FAQ</Cell><Cell>Help</Cell><Cell>Көмек</Cell></Row>
+<Row><Cell>ui_FAQTitle</Cell><Cell>Help</Cell><Cell>Көмек</Cell></Row>
 <Row><Cell>ui_Feedback</Cell><Cell>Feedback</Cell><Cell>Отзывы</Cell></Row>
 <Row><Cell>ui_fight</Cell><Cell>Fight</Cell><Cell>Бой</Cell></Row>
 <Row><Cell>ui_FOV</Cell><Cell>Vertical FOV</Cell><Cell>Поле зрения</Cell></Row>
@@ -3297,7 +3297,7 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_hint_dice_hold</Cell><Cell>Hold die</Cell><Cell>Отложить кость</Cell></Row>
 <Row><Cell>ui_hint_dice_pass</Cell><Cell>Pass</Cell><Cell>Пропустить</Cell></Row>
 <Row><Cell>ui_hint_dice_score_pass</Cell><Cell>Score and pass</Cell><Cell>Набор очков и передача хода</Cell></Row>
-<Row><Cell>ui_hint_helpscreen</Cell><Cell>Help</Cell><Cell>Помощь</Cell></Row>
+<Row><Cell>ui_hint_helpscreen</Cell><Cell>Help</Cell><Cell>Көмек</Cell></Row>
 <Row><Cell>ui_hint_transcription_skip</Cell><Cell>Skip</Cell><Cell>Пропустить</Cell></Row>
 <Row><Cell>ui_hold</Cell><Cell>Hold</Cell><Cell>Отложить</Cell></Row>
 <Row><Cell>ui_horse_overloaded</Cell><Cell>Your horse can't carry any more!</Cell><Cell>Твоя лошадь не может нести больше груза!</Cell></Row>
@@ -3552,8 +3552,8 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_load_subtitle</Cell><Cell>Beta Access</Cell><Cell>Бета-доступ</Cell></Row>
 <Row><Cell>ui_load_title</Cell><Cell>Kingdom Come: Deliverance</Cell><Cell>Kingdom Come: Deliverance</Cell></Row>
 <Row><Cell>ui_LoadFailed</Cell><Cell>Game load failed</Cell><Cell>Не удалось загрузить игру</Cell></Row>
-<Row><Cell>ui_LoadGame</Cell><Cell>Load Game</Cell><Cell>Загрузить игру</Cell></Row>
-<Row><Cell>ui_LoadGameTitle</Cell><Cell>Load Game</Cell><Cell>Загрузить игру</Cell></Row>
+<Row><Cell>ui_LoadGame</Cell><Cell>Load Game</Cell><Cell>Ойынды жүктеу</Cell></Row>
+<Row><Cell>ui_LoadGameTitle</Cell><Cell>Load Game</Cell><Cell>Ойынды жүктеу</Cell></Row>
 <Row><Cell>ui_LoadChapter</Cell><Cell>Load Chapter</Cell><Cell>Загрузить главу</Cell></Row>
 <Row><Cell>ui_LoadChapterTitle</Cell><Cell>Load Chapter</Cell><Cell>Загрузить главу</Cell></Row>
 <Row><Cell>ui_loading</Cell><Cell>Loading...</Cell><Cell>Загрузка…</Cell></Row>
@@ -3595,7 +3595,7 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_Multiplayer</Cell><Cell>Multiplayer</Cell><Cell>Сетевая игра</Cell></Row>
 <Row><Cell>ui_MultiplayerTitle</Cell><Cell>Multiplayer</Cell><Cell>Сетевая игра</Cell></Row>
 <Row><Cell>ui_MusicVolume</Cell><Cell>In-game music volume</Cell><Cell>Громкость музыки</Cell></Row>
-<Row><Cell>ui_NewGame</Cell><Cell>New Game</Cell><Cell>Новая игра</Cell></Row>
+<Row><Cell>ui_NewGame</Cell><Cell>New Game</Cell><Cell>Жаңа ойын</Cell></Row>
 <Row><Cell>ui_next_xp</Cell><Cell>Required XP</Cell><Cell>Требуемый уровень</Cell></Row>
 <Row><Cell>ui_nm_dog_mode</Cell><Cell>Current command</Cell><Cell>Действующая команда</Cell></Row>
 <Row><Cell>ui_No</Cell><Cell>No</Cell><Cell>Нет</Cell></Row>
@@ -3690,8 +3690,8 @@ His body lies in St. Vitus' Cathedral in Prague.</Cell><Cell>[1376 - 1411] &lt;b
 <Row><Cell>ui_ServerName</Cell><Cell>Server</Cell><Cell>Сервер</Cell></Row>
 <Row><Cell>ui_setPlayerName</Cell><Cell>Set Name</Cell><Cell>Задать имя</Cell></Row>
 <Row><Cell>ui_setPlayerNameTitle</Cell><Cell>Set Nickname</Cell><Cell>Установить ник</Cell></Row>
-<Row><Cell>ui_Settings</Cell><Cell>Settings</Cell><Cell>Параметры</Cell></Row>
-<Row><Cell>ui_SettingsTitle</Cell><Cell>Settings</Cell><Cell>Параметры</Cell></Row>
+<Row><Cell>ui_Settings</Cell><Cell>Settings</Cell><Cell>Баптаулар</Cell></Row>
+<Row><Cell>ui_SettingsTitle</Cell><Cell>Settings</Cell><Cell>Баптаулар</Cell></Row>
 <Row><Cell>ui_ShadingDetail</Cell><Cell>Shader quality</Cell><Cell>Качество шейдеров</Cell></Row>
 <Row><Cell>ui_ShadingDetailTT</Cell><Cell>Sets complexity of shaders.</Cell><Cell>Устанавливает сложность шейдеров.</Cell></Row>
 <Row><Cell>ui_shadowplayHighlights_empty_tt</Cell><Cell>You have no NVIDIA Highlights recorded yet.</Cell><Cell>Пока что у вас нет записанных лучших моментов NVIDIA Highlights.</Cell></Row>
