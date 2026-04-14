@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kcd_mod>
+    <info>
+        <name>Kazakh Localization</name>
+        <author>Aske</author>
+        <version>1.0</version>
+        <description>Перевод игры на казахский язык</description>
+    </info>
+</kcd_mod>
