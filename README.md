@@ -28,7 +28,7 @@ KingdomComeDeliverance/
 <p>Аударма файлдары:</p>
 
 <pre>
-KazakhLocalization/
+Kazakh_xml/
 </pre>
 
 <hr>
