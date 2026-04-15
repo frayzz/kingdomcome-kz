@@ -1,7 +1,7 @@
 <h1>🇰🇿 Kingdom Come: Deliverance — Қазақша аударма</h1>
 
 <p>
-Бұл жоба — <b>Kingdom Come: Deliverance</b> ойынына арналған қазақ тіліндегі аударма моды.
+Бұл жоба - <b>Kingdom Come: Deliverance</b> ойынына арналған қазақ тіліндегі аударма моды.
 </p>
 
 <hr>
@@ -65,15 +65,15 @@ KazakhLocalization/
 <th>Прогресс</th>
 </tr>
 
-<tr><td>Интерфейс (UI)</td><td>90%</td></tr>
-<tr><td>Диалогтар</td><td>70%</td></tr>
-<tr><td>Квесттер</td><td>50%</td></tr>
-<tr><td>Заттар</td><td>80%</td></tr>
-<tr><td>Туториалдар</td><td>75%</td></tr>
+<tr><td>Интерфейс (UI)</td><td>1%</td></tr>
+<tr><td>Диалогтар</td><td>0%</td></tr>
+<tr><td>Квесттер</td><td>0%</td></tr>
+<tr><td>Заттар</td><td>0%</td></tr>
+<tr><td>Туториалдар</td><td>0%</td></tr>
 
 <tr>
 <td><b>Жалпы</b></td>
-<td><b>~70%</b></td>
+<td><b>~0%</b></td>
 </tr>
 </table>
 
